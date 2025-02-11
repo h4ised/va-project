@@ -78,22 +78,22 @@ export const assets = {
 
 export const workData = [
   {
-    title: 'Foundever',
-    description: 'Sales Agent',
+    title: 'Zirtual',
+    description: 'Virtual Assistant',
     bgImage: '/work-1.png',
   },
   {
-    title: 'Amvisicorp',
-    description: 'Real Estate',
+    title: 'Concentrix',
+    description: 'Agent Representative',
     bgImage: '/work-2.png',
   },
   {
-    title: 'Accenture',
-    description: 'Travels Agent',
+    title: 'Media Platforms',
+    description: 'Web developer',
     bgImage: '/work-3.png',
   },
   {
-    title: 'Fiverr',
+    title: 'Online Jobs PH',
     description: 'Freelancer',
     bgImage: '/work-4.png',
   },
