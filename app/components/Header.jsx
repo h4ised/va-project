@@ -40,8 +40,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className='max-w-2xl mx-auto font-Ovo'
       >
-        I’m here to help you build and grow your business with ease and efficiency. <br />{' '}
-        (I am a developer too!)
+        I’m here to help you build and grow your business with ease and efficiency.
       </motion.p>
 
       <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>

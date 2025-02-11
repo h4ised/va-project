@@ -88,7 +88,7 @@ export const workData = [
     bgImage: '/work-2.png',
   },
   {
-    title: 'Media Platforms',
+    title: 'Social Platforms',
     description: 'Web developer',
     bgImage: '/work-3.png',
   },
@@ -108,7 +108,7 @@ export const serviceData = [
   },
   {
     icon: assets.mobile_icon,
-    title: 'SMM',
+    title: 'Social Media Management',
     description: 'Creating content, scheduling posts, engaging with followers...',
     link: '',
   },
@@ -120,7 +120,7 @@ export const serviceData = [
   },
   {
     icon: assets.graphics_icon,
-    title: 'Marketing and Sales',
+    title: 'Lead Generation',
     description: 'Bookkeeping, sales outreach, and lead generation....',
     link: '',
   },
@@ -131,7 +131,7 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: 'Skills',
-    description: 'Administrative Skills, Soft skills, Technical Skills',
+    description: 'From technical and soft skills I got you covered.',
   },
   {
     icon: assets.edu_icon,
